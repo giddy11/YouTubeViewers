@@ -19,7 +19,7 @@
                 <ColumnDefinition Width="auto"/>
             </Grid.ColumnDefinitions>
 
-            <TextBlock 
+            <TextBlock  
                 Text="YouTube Viewers" 
                 FontSize="32"/>
             
